@@ -1,0 +1,136 @@
+What type of vehicle would you like to race?
+1. Cars
+2. Trucks
+3. Formula 1
+4. Exit
+How many racers would you like in the race?
+Pole Positions
+Racecar Fletcher (#6) going 200MPH
+Racecar Baird (#58) going 200MPH
+Racecar Whitley (#17) going 200MPH
+Racecar Palmer (#79) going 200MPH
+Racecar Henson (#34) going 200MPH
+Racecar Matthews (#81) going 200MPH
+Racecar Long (#43) going 200MPH
+Racecar Murphy (#97) going 200MPH
+Racecar Leblanc (#71) going 200MPH
+Racecar Munoz (#17) going 200MPH
+How many laps would you like to do?
+Lap 1
+Racecar Fletcher (#6) going 218MPH
+Racecar Whitley (#17) going 198MPH
+Racecar Baird (#58) going 192MPH
+Racecar Henson (#34) going 222MPH
+Racecar Palmer (#79) going 192MPH
+Racecar Matthews (#81) going 182MPH
+Racecar Murphy (#97) going 218MPH
+Racecar Leblanc (#71) going 212MPH
+Racecar Munoz (#17) going 222MPH
+Racecar Long (#43) going 172MPH
+Lap 2
+Racecar Whitley (#17) going 215MPH
+Racecar Baird (#58) going 188MPH
+Racecar Henson (#34) going 193MPH
+Racecar Palmer (#79) going 209MPH
+Racecar Matthews (#81) going 196MPH
+Racecar Murphy (#97) going 204MPH
+Racecar Leblanc (#71) going 235MPH
+Racecar Munoz (#17) going 202MPH
+Racecar Fletcher (#6) going 187MPH
+Racecar Long (#43) going 187MPH
+Lap 3
+CRASH!!! Racecar Palmer crashed and is out of the race.
+Racecar Baird (#58) going 212MPH
+Racecar Whitley (#17) going 208MPH
+Racecar Matthews (#81) going 196MPH
+Racecar Murphy (#97) going 224MPH
+Racecar Leblanc (#71) going 204MPH
+Racecar Munoz (#17) going 206MPH
+Racecar Fletcher (#6) going 209MPH
+Racecar Long (#43) going 207MPH
+Racecar Henson (#34) going 164MPH
+Racecar Palmer crashed and is out of the race.
+Lap 4
+Racecar Whitley (#17) going 232MPH
+Racecar Baird (#58) going 218MPH
+Racecar Murphy (#97) going 226MPH
+Racecar Leblanc (#71) going 216MPH
+Racecar Munoz (#17) going 218MPH
+Racecar Matthews (#81) going 203MPH
+Racecar Long (#43) going 235MPH
+Racecar Fletcher (#6) going 188MPH
+Racecar Henson (#34) going 173MPH
+Racecar Palmer crashed and is out of the race.
+Lap 5
+Racecar Baird (#58) going 241MPH
+Racecar Murphy (#97) going 257MPH
+Racecar Whitley (#17) going 234MPH
+Racecar Munoz (#17) going 235MPH
+Racecar Leblanc (#71) going 224MPH
+Racecar Long (#43) going 204MPH
+Racecar Fletcher (#6) going 212MPH
+Racecar Matthews (#81) going 180MPH
+Racecar Henson (#34) going 166MPH
+Racecar Palmer crashed and is out of the race.
+Lap 6
+Racecar Baird (#58) going 257MPH
+Racecar Whitley (#17) going 224MPH
+Racecar Murphy (#97) going 221MPH
+Racecar Munoz (#17) going 220MPH
+Racecar Long (#43) going 234MPH
+Racecar Fletcher (#6) going 235MPH
+Racecar Leblanc (#71) going 215MPH
+Racecar Matthews (#81) going 172MPH
+Racecar Henson (#34) going 167MPH
+Racecar Palmer crashed and is out of the race.
+Lap 7
+Racecar Baird (#58) going 274MPH
+Racecar Whitley (#17) going 219MPH
+Racecar Munoz (#17) going 226MPH
+Racecar Long (#43) going 243MPH
+Racecar Fletcher (#6) going 249MPH
+Racecar Leblanc (#71) going 212MPH
+Racecar Murphy (#97) going 209MPH
+Racecar Matthews (#81) going 189MPH
+Racecar Henson (#34) going 172MPH
+Racecar Palmer crashed and is out of the race.
+Lap 8
+Racecar Baird (#58) going 290MPH
+Racecar Munoz (#17) going 259MPH
+Racecar Long (#43) going 213MPH
+Racecar Fletcher (#6) going 236MPH
+Racecar Whitley (#17) going 208MPH
+Racecar Murphy (#97) going 236MPH
+Racecar Matthews (#81) going 196MPH
+Racecar Leblanc (#71) going 190MPH
+Racecar Henson (#34) going 153MPH
+Racecar Palmer crashed and is out of the race.
+Lap 9
+Racecar Baird (#58) going 307MPH
+Racecar Munoz (#17) going 282MPH
+Racecar Fletcher (#6) going 247MPH
+Racecar Long (#43) going 202MPH
+Racecar Murphy (#97) going 205MPH
+Racecar Whitley (#17) going 178MPH
+Racecar Leblanc (#71) going 205MPH
+Racecar Matthews (#81) going 166MPH
+Racecar Henson (#34) going 137MPH
+Racecar Palmer crashed and is out of the race.
+Lap 10
+Racecar Munoz (#17) going 318MPH
+Racecar Baird (#58) going 276MPH
+Racecar Fletcher (#6) going 229MPH
+Racecar Long (#43) going 191MPH
+Racecar Murphy (#97) going 190MPH
+Racecar Leblanc (#71) going 200MPH
+Racecar Whitley (#17) going 174MPH
+Racecar Matthews (#81) going 154MPH
+Racecar Henson (#34) going 153MPH
+Racecar Palmer crashed and is out of the race.
+The winner of the race is Racecar Munoz (#17) going 318MPH
+What type of vehicle would you like to race?
+1. Cars
+2. Trucks
+3. Formula 1
+4. Exit
+Thank you for racing today!
